@@ -1,6 +1,7 @@
 package test;
 
 import MTPD_EyOP.Graph;
+import MTPD_EyOP.Graph;
 
 public class GraphTest {
     
