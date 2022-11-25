@@ -1,13 +1,13 @@
 /*
 *24/11/22
-* Angel Noe Calderon Gonzalez 
+* Ulises Rodriguez Solrozano
 * 
 */
 package MTPD_EyOP;
 
 /**
  *
- * @author angel
+ * @author Ulises
  */
 public class Graph {
 
